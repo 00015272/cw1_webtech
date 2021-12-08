@@ -157,6 +157,7 @@ section:nth-child(even){
     color:var(--light-color);
     line-height: 1.8;
     padding: 1rem 0;
+    color: red;
 }
 
 /* ICONS */
